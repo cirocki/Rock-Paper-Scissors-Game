@@ -1,3 +1,3 @@
-Rock, Paper, Scissors Game - Javascript Challenge 2019
+# Rock, Paper, Scissors Game - Javascript Challenge 2019
 
 Project live: https://cirocki.github.io/Rock-Paper-Scissors-Game/
